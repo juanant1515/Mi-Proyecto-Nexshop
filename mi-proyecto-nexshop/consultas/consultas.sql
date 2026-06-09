@@ -1,6 +1,6 @@
 -- ============================================================
 --  NexShop Group S.A. — Consultas MySQL
---  Autor: Erik Mora
+--  Autor: Juan Antonio Reyes Linares
 --  Fichero: consultas.sql
 --  Descripcion: Batería de 14 consultas sobre el modelo
 --               relacional de NexShop. Cada consulta incluye
