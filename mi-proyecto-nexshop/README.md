@@ -1,6 +1,6 @@
 # NexShop Group S.A. — Base de Datos
 
-**Autor:** Erik Mora  
+**Autor:** Juan Antonio Reyes Linares  
 **Nivel:** Intermedio-Avanzado  
 **Modalidad:** Individual  
 **Duración:** 1-2 semanas
@@ -88,6 +88,3 @@ El modelo consta de **25 tablas** que cubren:
 | `producto_tienda` | productos ↔ sedes (disponibilidad) |
 | `envio_lineas` | envios ↔ lineas_pedido (envíos parciales) |
 
----
-
-*CodeArts · We make it possible*
