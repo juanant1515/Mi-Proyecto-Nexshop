@@ -1,6 +1,6 @@
 -- ============================================================
 --  NexShop Group S.A. — Base de Datos
---  Autor: Erik Mora
+--  Autor: Juan Antonio Reyes Linares
 --  Fichero: schema.sql
 --  Descripcion: Creacion de todas las tablas, PKs, FKs y
 --               restricciones CHECK del modelo relacional.

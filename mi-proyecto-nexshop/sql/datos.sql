@@ -1,6 +1,6 @@
 -- ============================================================
 --  NexShop Group S.A. — Datos de Prueba
---  Autor: Erik Mora
+--  Autor: Juan Antonio Reyes Linares
 --  Fichero: datos.sql
 --  Descripcion: INSERT realistas para poder ejecutar y probar
 --               todas las consultas del proyecto.
